@@ -1,0 +1,26 @@
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\BODEGA.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\BODEGA.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\LOGIC.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\DATA.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\LOGIC.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\bin\Debug\DATA.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.crearBodega.resources
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.modificarBodega.resources
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.searchBodega.resources
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.csproj.GenerateResource.Cache
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\BODEGA\obj\Debug\BODEGA.pdb
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\BODEGA.dll
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\BODEGA.pdb
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\LOGIC.dll
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\DATA.dll
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\LOGIC.pdb
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\bin\Debug\DATA.pdb
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.crearBodega.resources
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.modificarBodega.resources
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.searchBodega.resources
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.csproj.GenerateResource.Cache
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.dll
+C:\Users\KEVIN\Desktop\BODEGA-DLL\BODEGA\BODEGA\obj\Debug\BODEGA.pdb

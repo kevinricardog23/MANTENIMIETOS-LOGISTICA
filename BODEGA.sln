@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BODEGA", "BODEGA\BODEGA.csproj", "{60B72D52-1D9A-461D-A629-B01E8F59D0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIC", "LOGIC\LOGIC.csproj", "{D79427A0-1765-463D-99FD-F563FD400DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA", "DATA\DATA.csproj", "{E5AACE9D-8F91-4B94-BF33-618D7FC5C2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B72D52-1D9A-461D-A629-B01E8F59D0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B72D52-1D9A-461D-A629-B01E8F59D0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B72D52-1D9A-461D-A629-B01E8F59D0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B72D52-1D9A-461D-A629-B01E8F59D0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79427A0-1765-463D-99FD-F563FD400DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79427A0-1765-463D-99FD-F563FD400DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79427A0-1765-463D-99FD-F563FD400DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79427A0-1765-463D-99FD-F563FD400DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AACE9D-8F91-4B94-BF33-618D7FC5C2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AACE9D-8F91-4B94-BF33-618D7FC5C2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AACE9D-8F91-4B94-BF33-618D7FC5C2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AACE9D-8F91-4B94-BF33-618D7FC5C2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

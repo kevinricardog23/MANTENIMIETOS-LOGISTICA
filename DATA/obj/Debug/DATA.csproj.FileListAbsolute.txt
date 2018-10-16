@@ -1,0 +1,5 @@
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\DATA\bin\Debug\DATA.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\DATA\bin\Debug\DATA.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\DATA\obj\Debug\DATA.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\1. SUBMODULO A\BODEGA\DATA\obj\Debug\DATA.pdb
