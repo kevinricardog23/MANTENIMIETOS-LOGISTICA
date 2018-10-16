@@ -88,5 +88,10 @@ namespace BODEGA
                 MessageBox.Show("Error al crear bodega");
             }
         }
+
+        private void crearBodega_HelpRequested(object sender, HelpEventArgs hlpevent)
+        {
+            Help.ShowHelp(this, "C:/Users/KEVIN/Source/Repos/MANTENIMIETOS-LOGISTICA/ayuda/ayudabodega.chm", "ayuda.html");
+        }
     }
 }

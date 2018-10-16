@@ -1,0 +1,15 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayudabodega.chm
+Contents file=HTML colchoneria\contenido.hhc
+Default topic=HTML colchoneria\ayuda.html
+Display compile progress=No
+Index file=HTML colchoneria\Index.hhk
+Language=0xc0a Español (España, internacional)
+
+
+[FILES]
+HTML colchoneria\ayuda.html
+
+[INFOTYPES]
+
